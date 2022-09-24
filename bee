@@ -1,0 +1,4 @@
+serverless create --template google-nodejs --path my-service
+	
+cd my-service
+npm install
